@@ -27,7 +27,7 @@ This value is then fed into a newly created Virtual Energy Meter device (`VIRTUA
 2. Go to the **Plugins** section.
 3. Upload the `virtual-home-energy-latest.tar.gz` archive.
 4. Activate the plugin. 
-5. Open the Homematic IP app. You will see a new device in your inbox called "Remaining household consumption".
+5. Open the Homematic IP app. You will see a new device called "Remaining household consumption".
 
 ## Advanced Configuration
 
