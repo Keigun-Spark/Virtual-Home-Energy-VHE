@@ -51,3 +51,7 @@ mvn clean package docker:build docker:save
 ```
 
 This will produce the deployable tarball in `target/virtual-home-energy-latest.tar.gz`.
+
+## AI Assistance
+
+Please note that portions of this project, including specific code implementations and documentation, were generated or refined with the assistance of AI tools.
