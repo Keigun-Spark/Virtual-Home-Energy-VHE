@@ -1,6 +1,6 @@
 # Virtual Home Energy (VHE) Plugin - HCU Docker Plugin
 
-This folder contains the build configuration to package the Virtual Home Energy plugin as a deployable Docker container for the **Homematic IP Home Control Unit (HCU)**. It automatically calculates your household's "unaccounted" or "unknown" energy consumption and creates a virtual energy meter in the Homematic IP App.
+Contains the build configuration to package the Virtual Home Energy plugin as a deployable Docker container for the **Homematic IP Home Control Unit (HCU)**. It automatically calculates your household's "unaccounted" or "unknown" energy consumption and creates a virtual energy meter in the Homematic IP App.
 
 ## How it works
 
