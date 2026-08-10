@@ -1,0 +1,41 @@
+# Java/Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment variables
+.env
+
+# Logs
+*.log
+devices-debug.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+*.iws
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
