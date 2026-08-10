@@ -51,8 +51,3 @@ mvn clean package docker:build docker:save
 ```
 
 This will produce the deployable tarball in `target/virtual-home-energy-latest.tar.gz`.
-
-## License
-
-This project is open-source.
-
